@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "nortlander2007"
+AuthUserFile /dana/data/servicemail/docs/htpasswd
+require valid-user
